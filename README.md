@@ -2,7 +2,7 @@
 
 #Before running the code:
 
-#Install sratool kit locally via conda or standalaone 
+#Install sratool kit locally via conda or standa laone tool via NCBI
 
 #python version 2.7 or higher
 
